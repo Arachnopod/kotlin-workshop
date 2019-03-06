@@ -6,3 +6,8 @@ out/
 .idea/
 build/
 presources/
+.classpath
+.project
+.settings/
+.vscode/
+bin/
