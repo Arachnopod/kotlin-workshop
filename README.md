@@ -6,6 +6,8 @@
 
 A Kotlin workshop intended to be taught in two days. 
 
+NOTE: Upgraded to Kotlin 1.3.21, Gradle 5.2.1, JUnit 5.4.0. Removed coroutines section (will require more work now that the API is no longer experimental).
+
 ### Structure
 
 This workshop is divided into two parts
